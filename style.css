@@ -80,8 +80,10 @@
     border: 2px solid orange;
 }
 /* box4 */
-.navone{
+.navone {
     font-size: 0.7rem;
+    color: white;
+    text-decoration: none;
 
 }
 .navsecond{
@@ -174,7 +176,7 @@
 footer{
     margin-top: 15px;
 }
-.footpanel1{
+.footpanel1 a{
     background-color: #37575a;
     color: white;
     height: 50px;
@@ -182,6 +184,7 @@ footer{
     justify-content: center;
     align-items: center;
     font-size: 0.85rem;
+    text-decoration: none;
 }
 .footpanel2{
     background-color: #222f3d;
